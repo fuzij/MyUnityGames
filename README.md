@@ -36,11 +36,11 @@ MyUnityGames/
 │  │  │  ├─ GameScene.unity.meta
 │  │  │  ├─ StartScene.unity
 │  │  │  └─ StartScene.unity.meta
-│  │  └─ Scripts/ 各種ソースコード
-│  │     ├─ Camera/ カメラ制御用
-│  │     ├─ Enemy/ 敵の挙動用
-│  │     ├─ Managers/ ゲーム全体の操作
-│  │     └─ Player/ プレイヤーの挙動用
+│  │  └─ Scripts/ 
+│  │     ├─ Camera/
+│  │     ├─ Enemy/
+│  │     ├─ Managers/
+│  │     └─ Player/
 │  ├─ MonoBleedingEdge/
 │  │  ├─ EmbedRuntime/
 │  │  └─ etc/mono/
@@ -52,6 +52,8 @@ MyUnityGames/
 │  ├─ ZombeamShooting.exe
 │  ├─ README.md
 │  └─ ZombeamShooting.zip
+
+各種ソースコードはScriptsフォルダ下に配置
 
 ---
 
