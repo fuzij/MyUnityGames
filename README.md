@@ -45,4 +45,5 @@
 - `MonoBleedingEdge/`  
 - `README.md`  
 
-これらをまとめたzipをダウンロード・展開してプレイしてください。
+以上を"ZombeamShooting"フォルダにアップロードしています。
+ZombeamShooting.exeを実行し、ゲームを遊んでください。
