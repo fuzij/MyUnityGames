@@ -36,7 +36,7 @@ MyUnityGames/
 │  │  │  ├─ GameScene.unity.meta
 │  │  │  ├─ StartScene.unity
 │  │  │  └─ StartScene.unity.meta
-│  │  └─ Scripts/ 
+│  │  └─ Scripts/
 │  │     ├─ Camera/
 │  │     ├─ Enemy/
 │  │     ├─ Managers/
