@@ -25,11 +25,41 @@
 
 ---
 
+##フォルダ構成
+MyUnityGames/
+├─ ZombeamShooting/
+│  ├─ Assets/
+│  │  ├─ Scenes/
+│  │  │  ├─ GameScene/
+│  │  │  ├─ GameScene.meta
+│  │  │  ├─ GameScene.unity
+│  │  │  ├─ GameScene.unity.meta
+│  │  │  ├─ StartScene.unity
+│  │  │  └─ StartScene.unity.meta
+│  │  └─ Scripts/ 各種ソースコード
+│  │     ├─ Camera/ カメラ制御用
+│  │     ├─ Enemy/ 敵の挙動用
+│  │     ├─ Managers/ ゲーム全体の操作
+│  │     └─ Player/ プレイヤーの挙動用
+│  ├─ MonoBleedingEdge/
+│  │  ├─ EmbedRuntime/
+│  │  └─ etc/mono/
+│  ├─ Packages/
+│  ├─ ProjectSettings/
+│  ├─ ZombeamShooting_Data/
+│  ├─ UnityCrashHandler64.exe
+│  ├─ UnityPlayer.dll
+│  ├─ ZombeamShooting.exe
+│  ├─ README.md
+│  └─ ZombeamShooting.zip
+
+---
+
 ##開発について
 - **ソースコード**: 自作  
 - **キャラクター3Dモデル・アニメーション・音楽**:  
   [Unity Asset Store](https://www.assetstore.unity3d.com/#!/content/40756) のSurvival Shooter Assetsを利用
-  ※本作開発中に配布が終了し, 2025年9月現在非公開状態  
+  ※本作開発中に配布が終了し, 2025年9月現在非公開状態
 
 ---
 
