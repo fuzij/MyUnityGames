@@ -28,13 +28,13 @@
 ##開発について
 - **ソースコード**: 自作  
 - **キャラクター3Dモデル・アニメーション・音楽**:  
-  [Unity Asset Store](https://www.assetstore.unity3d.com/#!/content/40756) を利用  
+  [Unity Asset Store](https://www.assetstore.unity3d.com/#!/content/40756) のSurvival Shooter Assetsを利用
+  ※本作開発中に配布が終了し, 2025年9月現在非公開状態  
 
 ---
 
 ##実行環境
 - Windows 10 / 11 64bit版
-
 ---
 
 ##配布ファイル
