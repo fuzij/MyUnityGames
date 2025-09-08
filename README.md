@@ -26,8 +26,7 @@
 ---
 
 ##フォルダ構成
-
-'''
+``` 
 MyUnityGames/
 ├─ ZombeamShooting/
 │  ├─ Assets/
@@ -54,7 +53,7 @@ MyUnityGames/
 │  ├─ ZombeamShooting.exe
 │  ├─ README.md
 │  └─ ZombeamShooting.zip
-'''
+```
 
 各種ソースコードはScriptsフォルダ下に配置
 
